@@ -1,0 +1,650 @@
+.
+├── 01-Introduction
+│   ├── 01-Getting_Started_The_Easy_Problems
+│   │   ├── 01-Super_Easy
+│   │   │   ├── 00272.c
+│   │   │   ├── 01124.c
+│   │   │   ├── 10550.c
+│   │   │   ├── 11044.c
+│   │   │   ├── 11172.c
+│   │   │   ├── 11364.c
+│   │   │   ├── 11498.c
+│   │   │   ├── 11547.c
+│   │   │   ├── 11727.c
+│   │   │   ├── 12250.c
+│   │   │   ├── 12279.c
+│   │   │   ├── 12289.c
+│   │   │   ├── 12372.c
+│   │   │   ├── 12403.c
+│   │   │   └── 12577.c
+│   │   └── 02-Easy
+│   │       ├── 00621.c
+│   │       ├── 10114.cpp
+│   │       ├── 10300.c
+│   │       ├── 10554.c
+│   │       ├── 10963.c
+│   │       ├── 11332.c
+│   │       ├── 11559.c
+│   │       ├── 11679.c
+│   │       ├── 11764.c
+│   │       ├── 11799.c
+│   │       ├── 11942.c
+│   │       ├── 12015.c
+│   │       ├── 12157.c
+│   │       ├── 12468.c
+│   │       └── 12503.c
+│   └── 02-Ad_Hoc_Problems-Part_1
+│       ├── 02-Game_Chess
+│       │   ├── 00255.cpp
+│       │   ├── 00278.cpp
+│       │   ├── 00696.cpp
+│       │   ├── 10196.cpp
+│       │   ├── 10284.cpp
+│       │   ├── 10849.cpp
+│       │   └── 11494.cpp
+│       ├── 03-Game_Others_Easier
+│       │   ├── 00340.cpp
+│       │   ├── 00489.cpp
+│       │   ├── 00947.cpp
+│       │   ├── 10189.cpp
+│       │   ├── 10279.cpp
+│       │   ├── 10409.cpp
+│       │   ├── 10530.cpp
+│       │   ├── 11459.cpp
+│       │   └── 12239.cpp
+│       ├── 05-Palindrome
+│       │   ├── 00353.cpp
+│       │   ├── 00401.cpp
+│       │   ├── 10018.cpp
+│       │   ├── 10945.cpp
+│       │   ├── 11221.cpp
+│       │   └── 11309.cpp
+│       └── 06-Anagram
+│           ├── 00148.cpp
+│           ├── 00156.py
+│           ├── 00195.cpp
+│           ├── 00454.cpp
+│           ├── 00630.cpp
+│           ├── 00642.cpp
+│           └── 10098.cpp
+├── 02-Data_Structures_and_Libraries
+│   ├── 01-Linear_Data_Structures_with_Built-in_Libraries
+│   │   ├── 02-2D_Array_Manipulation
+│   │   │   ├── 00101.cpp
+│   │   │   ├── 00434.cpp
+│   │   │   ├── 00466.cpp
+│   │   │   ├── 00541.cpp
+│   │   │   ├── 10016.cpp
+│   │   │   ├── 10703.cpp
+│   │   │   ├── 10855.cpp
+│   │   │   ├── 10920.cpp
+│   │   │   ├── 11040.cpp
+│   │   │   ├── 11349.cpp
+│   │   │   ├── 11360.cpp
+│   │   │   ├── 11581.cpp
+│   │   │   ├── 11835.cpp
+│   │   │   ├── 12187.cpp
+│   │   │   ├── 12291.cpp
+│   │   │   └── 12398.cpp
+│   │   ├── 03-C++_STL_Algorithm
+│   │   │   ├── 00123.cpp
+│   │   │   ├── 00146.cpp
+│   │   │   ├── 00400.cpp
+│   │   │   ├── 00450.cpp
+│   │   │   ├── 00790.cpp
+│   │   │   ├── 00855.cpp
+│   │   │   ├── 01209.cpp
+│   │   │   ├── 10057.cpp
+│   │   │   ├── 10107.cpp
+│   │   │   ├── 10194.cpp
+│   │   │   ├── 10258.cpp
+│   │   │   ├── 10698.cpp
+│   │   │   ├── 10880.cpp
+│   │   │   ├── 10905.cpp
+│   │   │   ├── 11039.cpp
+│   │   │   ├── 11321.cpp
+│   │   │   ├── 11588.cpp
+│   │   │   ├── 11777.cpp
+│   │   │   ├── 11824.cpp
+│   │   │   └── 12541.cpp
+│   │   ├── 04-Bit_Manipulation
+│   │   │   ├── 00594.cpp
+│   │   │   ├── 00700.cpp
+│   │   │   ├── 01241.cpp
+│   │   │   ├── 10264.cpp
+│   │   │   ├── 11173.cpp
+│   │   │   ├── 11760.cpp
+│   │   │   ├── 11926.cpp
+│   │   │   └── 11933.cpp
+│   │   └── 05-C++_STL_list
+│   │       └── 11988.cpp
+│   ├── 02-Non_Linear_Data_Structures_with_Built-in_Libraries
+│   │   ├── 02-C++_STL_set
+│   │   │   ├── 00501.cpp
+│   │   │   ├── 00978.cpp
+│   │   │   ├── 10815.cpp
+│   │   │   ├── 11062.cpp
+│   │   │   ├── 11136.cpp
+│   │   │   ├── 11849.cpp
+│   │   │   └── 12049.cpp
+│   │   └── 03-C++_STL_priority_queue
+│   │       ├── 01203.cpp
+│   │       ├── 10954.cpp
+│   │       └── 11995.cpp
+│   └── 03-Data_Structures_with_Our-Own_Libraries
+│       ├── 01-Graph_Data_Structures_Problems
+│       │   ├── 00599.cpp
+│       │   ├── 10895.cpp
+│       │   ├── 10928.cpp
+│       │   ├── 11550.cpp
+│       │   └── 11991.cpp
+│       └── 02-Union-Find_Disjoint_Sets
+│           ├── 00793.cpp
+│           ├── 01197.cpp
+│           ├── 10158.cpp
+│           ├── 10227.cpp
+│           ├── 10507.cpp
+│           ├── 10583.cpp
+│           ├── 10608.cpp
+│           ├── 10685.cpp
+│           ├── 11503.cpp
+│           └── 11690.cpp
+├── 03-Problem_Solving_Paradigms
+│   ├── 01-Complete_Search
+│   │   ├── 01-Iterative_One_Loop_Linear_Scan
+│   │   │   ├── 00102.cpp
+│   │   │   ├── 00256.cpp
+│   │   │   ├── 00927.cpp
+│   │   │   ├── 01237.cpp
+│   │   │   ├── 10976.cpp
+│   │   │   ├── 11001.cpp
+│   │   │   └── 11078.cpp
+│   │   ├── 02-Iterative_Two_Nested_Loops
+│   │   │   ├── 00105.cpp
+│   │   │   ├── 00347.cpp
+│   │   │   ├── 00471.cpp
+│   │   │   ├── 00617.cpp
+│   │   │   ├── 00725.cpp
+│   │   │   ├── 01260.cpp
+│   │   │   ├── 10041.cpp
+│   │   │   ├── 10487.cpp
+│   │   │   ├── 10730.cpp
+│   │   │   ├── 11242.cpp
+│   │   │   ├── 12488.cpp
+│   │   │   └── 12583.cpp
+│   │   ├── 03-Iterative_Three_or_More_Nested_Loops_Easier
+│   │   │   ├── 00154.cpp
+│   │   │   ├── 00188.cpp
+│   │   │   ├── 00441.cpp
+│   │   │   ├── 00626.cpp
+│   │   │   ├── 00703.cpp
+│   │   │   ├── 00735.cpp
+│   │   │   ├── 10102.cpp
+│   │   │   ├── 10502.cpp
+│   │   │   ├── 10662.cpp
+│   │   │   ├── 10908.cpp
+│   │   │   ├── 11059.cpp
+│   │   │   ├── 11975.cpp
+│   │   │   ├── 12498.cpp
+│   │   │   └── 12515.cpp
+│   │   ├── 04-Iterative_Three_or_More_Nested_Loops_Harder
+│   │   │   ├── 00253.cpp
+│   │   │   ├── 00296.cpp
+│   │   │   ├── 00386.cpp
+│   │   │   ├── 10125.cpp
+│   │   │   ├── 10177.cpp
+│   │   │   ├── 10360.cpp
+│   │   │   ├── 10365.cpp
+│   │   │   ├── 10483.cpp
+│   │   │   ├── 10660.cpp
+│   │   │   ├── 10973.cpp
+│   │   │   ├── 11108.cpp
+│   │   │   ├── 11236.cpp
+│   │   │   ├── 11342.cpp
+│   │   │   ├── 11548.cpp
+│   │   │   ├── 11565.cpp
+│   │   │   ├── 11804.cpp
+│   │   │   └── 11959.cpp
+│   │   └── 06-Recursive_Backtracking_Easy
+│   │       ├── 00167.cpp
+│   │       ├── 00380.cpp
+│   │       ├── 00539.cpp
+│   │       ├── 00624.cpp
+│   │       ├── 00628.cpp
+│   │       ├── 00677.cpp
+│   │       ├── 00729.cpp
+│   │       ├── 00750.cpp
+│   │       ├── 10276.cpp
+│   │       ├── 10344.cpp
+│   │       ├── 10452.cpp
+│   │       ├── 10576.cpp
+│   │       └── 11085.cpp
+│   ├── 02-Divide_and_Conquer
+│   │   ├── 01-Binary_Search
+│   │   │   ├── 00679.cpp
+│   │   │   ├── 00957.cpp
+│   │   │   ├── 10077.cpp
+│   │   │   ├── 10474.cpp
+│   │   │   ├── 10567.cpp
+│   │   │   ├── 10611.cpp
+│   │   │   ├── 10706.cpp
+│   │   │   ├── 10742.cpp
+│   │   │   ├── 11057.cpp
+│   │   │   ├── 11621.cpp
+│   │   │   ├── 11701.cpp
+│   │   │   ├── 11876.cpp
+│   │   │   └── 12192.cpp
+│   │   ├── 02-Binary_Search_the_Answer
+│   │   │   ├── 10341.cpp
+│   │   │   ├── 11413.cpp
+│   │   │   ├── 11881.cpp
+│   │   │   ├── 11935.cpp
+│   │   │   ├── 12032.cpp
+│   │   │   └── 12190.cpp
+│   │   └── 03-Other_Divide_and_Conquer_Problems
+│   │       └── 00183.cpp
+│   ├── 03-Greedy
+│   │   └── 01-Classical_Usually_Easier
+│   │       ├── 00410.cpp
+│   │       ├── 01193.cpp
+│   │       ├── 10020.cpp
+│   │       ├── 10382.cpp
+│   │       ├── 11264.cpp
+│   │       ├── 11389.cpp
+│   │       ├── 12321.cpp
+│   │       └── 12405.cpp
+│   └── 04-Dynamic_Programming
+│       ├── 01-Max_1D_Range_Sum
+│       │   ├── 00507.cpp
+│       │   ├── 00787.py
+│       │   ├── 10684.cpp
+│       │   └── 10755.cpp
+│       ├── 02-Max_2D_Range_Sum
+│       │   ├── 00108.cpp
+│       │   ├── 00836.cpp
+│       │   ├── 00983.cpp
+│       │   ├── 10074.cpp
+│       │   ├── 10667.cpp
+│       │   ├── 10827.cpp
+│       │   └── 11951.cpp
+│       └── 03-Longest_Increasing_Subsequence_LIS
+│           ├── 00111.cpp
+│           ├── 00231.cpp
+│           ├── 00437.cpp
+│           ├── 00481.cpp
+│           ├── 00497.cpp
+│           ├── 01196.cpp
+│           ├── 10131.cpp
+│           ├── 10534.cpp
+│           ├── 11368.cpp
+│           ├── 11456.cpp
+│           └── 11790.cpp
+├── 04-Graph
+│   ├── 01-Graph_Traversal
+│   │   ├── 02-Flood_Fill_Finding_Connected_Components
+│   │   │   ├── 00260.cpp
+│   │   │   ├── 00352.cpp
+│   │   │   ├── 00459.cpp
+│   │   │   ├── 00469.cpp
+│   │   │   ├── 00572.cpp
+│   │   │   ├── 00657.cpp
+│   │   │   ├── 00722.cpp
+│   │   │   ├── 00758.cpp
+│   │   │   ├── 00776.cpp
+│   │   │   ├── 00782.cpp
+│   │   │   ├── 00784.cpp
+│   │   │   ├── 00785.cpp
+│   │   │   ├── 00852.cpp
+│   │   │   ├── 00871.cpp
+│   │   │   ├── 01103.cpp
+│   │   │   ├── 10336.cpp
+│   │   │   ├── 10707.cpp
+│   │   │   ├── 10946.cpp
+│   │   │   ├── 11094.cpp
+│   │   │   ├── 11110.cpp
+│   │   │   ├── 11244.cpp
+│   │   │   ├── 11470.cpp
+│   │   │   ├── 11518.cpp
+│   │   │   ├── 11561.cpp
+│   │   │   ├── 11749.cpp
+│   │   │   └── 11953.cpp
+│   │   ├── 03-Topological_Sort
+│   │   │   ├── 00124.cpp
+│   │   │   ├── 00200.cpp
+│   │   │   ├── 00872.cpp
+│   │   │   ├── 10305.cpp
+│   │   │   ├── 11060.cpp
+│   │   │   └── 11686.cpp
+│   │   ├── 04-Bipartite_Graph_Check
+│   │   │   ├── 10004.cpp
+│   │   │   ├── 10505.cpp
+│   │   │   ├── 11080.cpp
+│   │   │   └── 11396.cpp
+│   │   ├── 05-Finding_Articulation_Points_Bridges
+│   │   │   ├── 00315.cpp
+│   │   │   ├── 00610.cpp
+│   │   │   ├── 00796.cpp
+│   │   │   ├── 10199.cpp
+│   │   │   └── 10765.cpp
+│   │   └── 06-Finding_Strongly_Connected_Components
+│   │       ├── 00247.cpp
+│   │       ├── 01229.cpp
+│   │       ├── 10731.cpp
+│   │       ├── 11504.cpp
+│   │       ├── 11709.cpp
+│   │       ├── 11770.cpp
+│   │       └── 11838.cpp
+│   ├── 02-Minimum_Spanning_Tree
+│   │   ├── 01-Standard
+│   │   │   ├── 00908.cpp
+│   │   │   ├── 01174.cpp
+│   │   │   ├── 01208.cpp
+│   │   │   ├── 01235.cpp
+│   │   │   ├── 10034.cpp
+│   │   │   ├── 11228.cpp
+│   │   │   ├── 11631.cpp
+│   │   │   ├── 11710.cpp
+│   │   │   ├── 11733.cpp
+│   │   │   ├── 11747.cpp
+│   │   │   └── 11857.cpp
+│   │   └── 02-Variants
+│   │       ├── 00534.cpp
+│   │       ├── 00544.cpp
+│   │       ├── 01160.cpp
+│   │       ├── 01216.cpp
+│   │       ├── 01234.cpp
+│   │       ├── 10048.cpp
+│   │       ├── 10099.cpp
+│   │       ├── 10147.cpp
+│   │       ├── 10369.cpp
+│   │       ├── 10397.cpp
+│   │       ├── 10462.cpp
+│   │       ├── 10600.cpp
+│   │       └── 10842.cpp
+│   └── 03-Single_Source_Shortest_Paths_SSSP
+│       ├── 01-On_Unweighted_Graph_BFS_Easier
+│       │   ├── 00336.cpp
+│       │   ├── 00383.cpp
+│       │   ├── 00388.cpp
+│       │   ├── 00429.cpp
+│       │   ├── 00627.cpp
+│       │   ├── 00762.cpp
+│       │   ├── 00924.cpp
+│       │   ├── 01148.cpp
+│       │   ├── 10009.cpp
+│       │   ├── 10422.cpp
+│       │   ├── 10610.cpp
+│       │   ├── 10653.cpp
+│       │   └── 10959.cpp
+│       ├── 03-On_Weighted_Graph_Dijkstra_Easier
+│       │   ├── 00929.cpp
+│       │   ├── 01112.cpp
+│       │   ├── 10389.cpp
+│       │   └── 10986.cpp
+│       └── 05-On_Graph_With_Negative_Cycle_Bellman_Ford
+│           ├── 00558.cpp
+│           ├── 10449.cpp
+│           ├── 10557.cpp
+│           └── 11280.cpp
+├── 05-Mathematics
+│   ├── 01-Ad_Hoc_Mathematics_Problems
+│   │   ├── 01-The_Simpler_Ones
+│   │   │   ├── 10055.cpp
+│   │   │   ├── 10071.cpp
+│   │   │   ├── 10281.cpp
+│   │   │   ├── 10469.cpp
+│   │   │   ├── 10773.cpp
+│   │   │   ├── 11614.cpp
+│   │   │   ├── 11723.cpp
+│   │   │   ├── 11805.cpp
+│   │   │   ├── 11875.cpp
+│   │   │   ├── 12149.c
+│   │   │   └── 12502.cpp
+│   │   ├── 02-Mathematical_Simulation_Brute_Force_easier
+│   │   │   ├── 00100.cpp
+│   │   │   ├── 00371.cpp
+│   │   │   ├── 00382.cpp
+│   │   │   ├── 00834.cpp
+│   │   │   ├── 00906.cpp
+│   │   │   ├── 01225.cpp
+│   │   │   ├── 10035.cpp
+│   │   │   ├── 10346.cpp
+│   │   │   ├── 10370.cpp
+│   │   │   ├── 10783.cpp
+│   │   │   ├── 10879.cpp
+│   │   │   ├── 11150.cpp
+│   │   │   ├── 11247.cpp
+│   │   │   ├── 11313.cpp
+│   │   │   ├── 11689.cpp
+│   │   │   ├── 11877.cpp
+│   │   │   ├── 11934.cpp
+│   │   │   ├── 12290.cpp
+│   │   │   └── 12527.cpp
+│   │   ├── 04-Finding_Pattern_or_Formula_easier
+│   │   │   ├── 10014.cpp
+│   │   │   ├── 10170.cpp
+│   │   │   ├── 10499.cpp
+│   │   │   ├── 10696.cpp
+│   │   │   ├── 10751.cpp
+│   │   │   ├── 10940.cpp
+│   │   │   ├── 11202.cpp
+│   │   │   ├── 12004.cpp
+│   │   │   └── 12027.cpp
+│   │   └── 09-Polynomial
+│   │       ├── 00126.cpp
+│   │       ├── 00392.cpp
+│   │       ├── 00498.cpp
+│   │       ├── 10215.cpp
+│   │       ├── 10268.cpp
+│   │       ├── 10302.cpp
+│   │       ├── 10326.cpp
+│   │       ├── 10586.cpp
+│   │       ├── 10719.cpp
+│   │       └── 11692.cpp
+│   ├── 02-Java_BigInteger_Class
+│   │   └── 03-Bonus_Features_Primality_Testing
+│   │       ├── 00960.cpp
+│   │       ├── 01210.cpp
+│   │       ├── 10235.cpp
+│   │       ├── 10924.cpp
+│   │       ├── 11287.py
+│   │       └── 12542.py
+│   ├── 03-Combinatorics
+│   │   ├── 01-Fibonacci_Numbers
+│   │   │   ├── 00495.cpp
+│   │   │   ├── 00580.cpp
+│   │   │   ├── 00763.cpp
+│   │   │   ├── 00900.cpp
+│   │   │   ├── 00948.cpp
+│   │   │   ├── 01258.cpp
+│   │   │   ├── 10183.cpp
+│   │   │   ├── 10344.cpp
+│   │   │   ├── 10450.cpp
+│   │   │   ├── 10497.cpp
+│   │   │   ├── 10579.cpp
+│   │   │   ├── 10689.cpp
+│   │   │   ├── 10862.cpp
+│   │   │   ├── 11000.cpp
+│   │   │   ├── 11089.cpp
+│   │   │   ├── 11161.cpp
+│   │   │   └── 11780.cpp
+│   │   ├── 02-Binomial_Coefficients
+│   │   │   ├── 00326.cpp
+│   │   │   ├── 00369.cpp
+│   │   │   ├── 00485.py
+│   │   │   ├── 00530.cpp
+│   │   │   ├── 00911.py
+│   │   │   ├── 10105.cpp
+│   │   │   ├── 10219.cpp
+│   │   │   ├── 10375.py
+│   │   │   ├── 10532.cpp
+│   │   │   ├── 10541.py
+│   │   │   └── 11955.cpp
+│   │   └── 03-Catalan_Numbers
+│   │       ├── 00991.cpp
+│   │       ├── 10007.py
+│   │       ├── 10223.cpp
+│   │       ├── 10303.py
+│   │       ├── 10312.py
+│   │       └── 10643.py
+│   ├── 04-Number_Theory
+│   │   ├── 01-Prime_Numbers
+│   │   │   ├── 00406.cpp
+│   │   │   ├── 00543.cpp
+│   │   │   ├── 00686.cpp
+│   │   │   ├── 00897.cpp
+│   │   │   ├── 00914.cpp
+│   │   │   ├── 10140.cpp
+│   │   │   ├── 10168.cpp
+│   │   │   ├── 10311.cpp
+│   │   │   ├── 10394.cpp
+│   │   │   ├── 10490.cpp
+│   │   │   ├── 10650.cpp
+│   │   │   ├── 10852.cpp
+│   │   │   ├── 10948.cpp
+│   │   │   └── 11752.py
+│   │   ├── 02-GCD_and_or_LCM
+│   │   │   ├── 00106.cpp
+│   │   │   ├── 00332.py
+│   │   │   ├── 00408.cpp
+│   │   │   ├── 00412.cpp
+│   │   │   ├── 10407.cpp
+│   │   │   ├── 10892.cpp
+│   │   │   ├── 11388.cpp
+│   │   │   ├── 11417.cpp
+│   │   │   ├── 11774.cpp
+│   │   │   ├── 11827.cpp
+│   │   │   └── 12068.cpp
+│   │   ├── 03-Factorial
+│   │   │   ├── 00324.py
+│   │   │   ├── 00568.py
+│   │   │   ├── 00623.py
+│   │   │   ├── 10220.py
+│   │   │   ├── 10323.py
+│   │   │   └── 10338.py
+│   │   ├── 04-Finding_Prime_Factors
+│   │   │   ├── 00516.cpp
+│   │   │   ├── 00583.cpp
+│   │   │   ├── 10392.cpp
+│   │   │   └── 11466.cpp
+│   │   ├── 05-Working_With_Prime_Factors
+│   │   │   ├── 00160.cpp
+│   │   │   ├── 00993.cpp
+│   │   │   ├── 10061.cpp
+│   │   │   ├── 10139.cpp
+│   │   │   ├── 10484.cpp
+│   │   │   ├── 10527.py
+│   │   │   ├── 10622.cpp
+│   │   │   ├── 10680.cpp
+│   │   │   ├── 10780.cpp
+│   │   │   ├── 10791.cpp
+│   │   │   ├── 11347.cpp
+│   │   │   ├── 11395.cpp
+│   │   │   └── 11889.cpp
+│   │   ├── 07-Modified_Sieve
+│   │   │   ├── 10699.cpp
+│   │   │   ├── 10738.cpp
+│   │   │   ├── 10990.cpp
+│   │   │   ├── 11327.cpp
+│   │   │   └── 12043.cpp
+│   │   └── 09-Extended_Euclid
+│   │       ├── 10090.cpp
+│   │       ├── 10104.cpp
+│   │       ├── 10633.cpp
+│   │       └── 10673.cpp
+│   ├── 06-Cycle-Finding
+│   │   ├── 00202.cpp
+│   │   ├── 00275.cpp
+│   │   ├── 00350.cpp
+│   │   ├── 00944.cpp
+│   │   ├── 10162.py
+│   │   ├── 10515.py
+│   │   ├── 10591.cpp
+│   │   ├── 11036.cpp
+│   │   ├── 11053.cpp
+│   │   ├── 11549.cpp
+│   │   ├── 11634.cpp
+│   │   └── 12464.cpp
+│   └── 07-Game-Theory
+│       ├── 00847.cpp
+│       ├── 10111.cpp
+│       ├── 10165.cpp
+│       ├── 10368.cpp
+│       ├── 10404.cpp
+│       ├── 10578.cpp
+│       ├── 11311.cpp
+│       ├── 11489.cpp
+│       ├── 12293.cpp
+│       └── 12469.cpp
+├── 06-String_Processing
+│   └── 01-Ad_Hoc_String_Processing_Problems-Part_1
+│       └── 01-Cipher_Encode_Encrypt_Decode_Decrypt-Easier
+│           ├── 00245.cpp
+│           ├── 00306.cpp
+│           ├── 00444.cpp
+│           ├── 00458.cpp
+│           ├── 00483.cpp
+│           ├── 00492.cpp
+│           ├── 00641.cpp
+│           ├── 00739.cpp
+│           ├── 00795.cpp
+│           ├── 00865.py
+│           ├── 10019.py
+│           ├── 10222.cpp
+│           ├── 10851.cpp
+│           ├── 10878.cpp
+│           ├── 10896.py
+│           ├── 10921.cpp
+│           ├── 11220.py
+│           ├── 11278.cpp
+│           ├── 11541.cpp
+│           ├── 11716.cpp
+│           ├── 11787.cpp
+│           └── 11946.cpp
+├── 08-More_Advanded_Topics
+│   └── 01-More_Advanded_Search_Techniques
+│       └── 01-More_Challenging_Backtracking_Problem
+│           ├── 00131.cpp
+│           ├── 00710.cpp
+│           ├── 00711.cpp
+│           ├── 00989.cpp
+│           ├── 01052.cpp
+│           ├── 10309.cpp
+│           ├── 10318.cpp
+│           ├── 10890.cpp
+│           ├── 10957.cpp
+│           ├── 11065.cpp
+│           ├── 11127.cpp
+│           ├── 11195.cpp
+│           ├── 11464.cpp
+│           └── 11471.cpp
+├── 09-Rare_Topics
+│   ├── 01-Rare_Algorithms
+│   │   └── 08-Pollard_Rho_Integer_Factoring_Algorithm
+│   │       └── 11476.cpp
+│   └── 02-Rare_Problems
+│       ├── 09-Inversion_Index
+│       │   ├── 00299.cpp
+│       │   ├── 00612.cpp
+│       │   ├── 10327.cpp
+│       │   ├── 10810.cpp
+│       │   ├── 11495.cpp
+│       │   └── 11858.cpp
+│       ├── 13-Magic_Square_Construction_Odd_Size
+│       │   └── 01266.cpp
+│       ├── 17-Pancake_Sorting
+│       │   └── 00120.cpp
+│       ├── 18-Postfix_Calculator_and_Conversion
+│       │   └── 00727.cpp
+│       ├── 19-Roman_Numerals
+│       │   ├── 00334.cpp
+│       │   ├── 00759.cpp
+│       │   ├── 11616.cpp
+│       │   └── 12397.cpp
+│       ├── 20-Sorting_in_Linear_Time
+│       │   └── 11462.cpp
+│       └── 21-Tower_of_Hanoi
+│           └── 10017.cpp
+└── README.md
+
+91 directories, 556 files
