@@ -1,0 +1,5 @@
+input()
+S1 = set(map(int,input().split()))
+input()
+S2 = set(map(int,input().split()))
+print("\n".join([str(it) for it in sorted(S1^S2)]))

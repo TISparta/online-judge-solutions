@@ -1,0 +1,6 @@
+s = input()
+print(any(it.isalnum() for it in s))
+print(any(it.isalpha() for it in s))
+print(any(it.isdigit() for it in s))
+print(any(it.islower() for it in s))
+print(any(it.isupper() for it in s))
