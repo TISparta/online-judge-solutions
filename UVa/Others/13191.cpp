@@ -1,3 +1,11 @@
+/**
+ * > Author : TISparta
+ * > Date : 22-03-18
+ * > Tag : Number theory, Miller-Robin algorithm, Rho algorithm
+ * > Difficulty : 5 / 10
+ */
+
+
 #include <bits/stdc++.h>
 
 using namespace std;

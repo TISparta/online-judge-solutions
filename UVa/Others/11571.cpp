@@ -1,3 +1,10 @@
+/**
+ * > Author : TISparta
+ * > Date : 22-03-18
+ * > Tag : Math
+ * > Difficulty : 5 / 10
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
