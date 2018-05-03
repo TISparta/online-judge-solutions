@@ -1,7 +1,7 @@
 /**
  * > Author : TISparta
  * > Date : 03-04-18
- * > Tag : Wavelet Tree
+ * > Tags : Wavelet Tree
  * > Difficulty : 6 / 10
  */
 

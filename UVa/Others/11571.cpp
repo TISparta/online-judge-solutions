@@ -1,7 +1,7 @@
 /**
  * > Author : TISparta
  * > Date : 22-03-18
- * > Tag : Math
+ * > Tags : Math
  * > Difficulty : 5 / 10
  */
 
