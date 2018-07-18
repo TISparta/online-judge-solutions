@@ -1,0 +1,13 @@
+# [Warnup](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup "Warnup")
+Problem | Difficulty | Tags
+------- | ---------- | ----
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem "A-Very-Big-Sum") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem "Birthday-Cake-Candles") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem "Compare-the-Triplets") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem "Diagonal-Difference") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem "Mini-Max-Sum") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem "Plus-Minus") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem "Simple-Array-Sum") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem "Solve-Me-First") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Staircase](https://www.hackerrank.com/challenges/staircase/problem "Staircase") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
+[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem "Time-Conversion") | :red_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle::black_circle: | Ad-Hoc
