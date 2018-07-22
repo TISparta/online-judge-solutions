@@ -1,3 +1,10 @@
+/**
+ * > Author: TISparta
+ * > Date: 14-07-18
+ * > Tags: Greedy
+ * > Difficulty: 3 / 10
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
