@@ -267,18 +267,40 @@
 │       │   ├── 10667.cpp
 │       │   ├── 10827.cpp
 │       │   └── 11951.cpp
-│       └── 03-Longest_Increasing_Subsequence_LIS
-│           ├── 00111.cpp
-│           ├── 00231.cpp
-│           ├── 00437.cpp
-│           ├── 00481.cpp
-│           ├── 00497.cpp
-│           ├── 01196.cpp
-│           ├── 10131.cpp
-│           ├── 10534.cpp
-│           ├── 11368.cpp
-│           ├── 11456.cpp
-│           └── 11790.cpp
+│       ├── 03-Longest_Increasing_Subsequence_LIS
+│       │   ├── 00111.cpp
+│       │   ├── 00231.cpp
+│       │   ├── 00437.cpp
+│       │   ├── 00481.cpp
+│       │   ├── 00497.cpp
+│       │   ├── 01196.cpp
+│       │   ├── 10131.cpp
+│       │   ├── 10534.cpp
+│       │   ├── 11368.cpp
+│       │   ├── 11456.cpp
+│       │   └── 11790.cpp
+│       ├── 04-0_1_Knapsack_Subset_Sum
+│       │   ├── 00562.cpp
+│       │   ├── 00990.cpp
+│       │   ├── 01213.cpp
+│       │   ├── 10130.cpp
+│       │   ├── 10261.cpp
+│       │   ├── 10616.cpp
+│       │   ├── 10664.cpp
+│       │   ├── 10819.cpp
+│       │   ├── 11003.cpp
+│       │   ├── 11341.cpp
+│       │   ├── 11566.cpp
+│       │   └── 11658.cpp
+│       └── 05-Coin_Change_CC
+│           ├── 00147.cpp
+│           ├── 00166.cpp
+│           ├── 00357.cpp
+│           ├── 00674.cpp
+│           ├── 10306.cpp
+│           ├── 10313.cpp
+│           ├── 11137.cpp
+│           └── 11517.cpp
 ├── 04-Graph
 │   ├── 01-Graph_Traversal
 │   │   ├── 02-Flood_Fill_Finding_Connected_Components
@@ -577,30 +599,93 @@
 │       ├── 12293.cpp
 │       └── 12469.cpp
 ├── 06-String_Processing
-│   └── 01-Ad_Hoc_String_Processing_Problems-Part_1
-│       └── 01-Cipher_Encode_Encrypt_Decode_Decrypt-Easier
-│           ├── 00245.cpp
-│           ├── 00306.cpp
-│           ├── 00444.cpp
-│           ├── 00458.cpp
-│           ├── 00483.cpp
-│           ├── 00492.cpp
-│           ├── 00641.cpp
-│           ├── 00739.cpp
-│           ├── 00795.cpp
-│           ├── 00865.py
-│           ├── 10019.py
-│           ├── 10222.cpp
-│           ├── 10851.cpp
-│           ├── 10878.cpp
-│           ├── 10896.py
-│           ├── 10921.cpp
-│           ├── 11220.py
-│           ├── 11278.cpp
-│           ├── 11541.cpp
-│           ├── 11716.cpp
-│           ├── 11787.cpp
-│           └── 11946.cpp
+│   ├── 01-Ad_Hoc_String_Processing_Problems-Part_1
+│   │   └── 01-Cipher_Encode_Encrypt_Decode_Decrypt-Easier
+│   │       ├── 00245.cpp
+│   │       ├── 00306.cpp
+│   │       ├── 00444.cpp
+│   │       ├── 00458.cpp
+│   │       ├── 00483.cpp
+│   │       ├── 00492.cpp
+│   │       ├── 00641.cpp
+│   │       ├── 00739.cpp
+│   │       ├── 00795.cpp
+│   │       ├── 00865.py
+│   │       ├── 10019.py
+│   │       ├── 10222.cpp
+│   │       ├── 10851.cpp
+│   │       ├── 10878.cpp
+│   │       ├── 10896.py
+│   │       ├── 10921.cpp
+│   │       ├── 11220.py
+│   │       ├── 11278.cpp
+│   │       ├── 11541.cpp
+│   │       ├── 11716.cpp
+│   │       ├── 11787.cpp
+│   │       └── 11946.cpp
+│   ├── 02-Ad_Hoc_String_Processing_Problems-Part_2
+│   │   └── 02-String_Comparison
+│   │       ├── 00409.cpp
+│   │       ├── 00644.cpp
+│   │       ├── 00671.cpp
+│   │       ├── 00912.cpp
+│   │       ├── 11048.cpp
+│   │       ├── 11056.cpp
+│   │       ├── 11233.cpp
+│   │       ├── 11713.cpp
+│   │       └── 11734.py
+│   ├── 03-String-Matching
+│   │   ├── 01-Standard
+│   │   │   ├── 00455.cpp
+│   │   │   ├── 00886.cpp
+│   │   │   ├── 10298.cpp
+│   │   │   ├── 11362.cpp
+│   │   │   ├── 11475.cpp
+│   │   │   ├── 11576.cpp
+│   │   │   ├── 11888.cpp
+│   │   │   └── 12467.cpp
+│   │   └── 02-In-2D-Grid
+│   │       ├── 00422.cpp
+│   │       ├── 00604.cpp
+│   │       ├── 00736.cpp
+│   │       ├── 10010.cpp
+│   │       └── 11283.cpp
+│   └── 04-String-Processing-With-Dynamic-Programming
+│       ├── 01-Classic
+│       │   ├── 00164.cpp
+│       │   ├── 00526.cpp
+│       │   ├── 00531.cpp
+│       │   ├── 01207.cpp
+│       │   ├── 10066.cpp
+│       │   ├── 10100.cpp
+│       │   ├── 10192.cpp
+│       │   ├── 10405.cpp
+│       │   ├── 10635.cpp
+│       │   └── 10739.cpp
+│       └── 02-Non-Classic
+│           ├── 00257.cpp
+│           ├── 10453.cpp
+│           ├── 10617.cpp
+│           ├── 11022.cpp
+│           ├── 11151.cpp
+│           ├── 11258.cpp
+│           └── 11552.cpp
+├── 07-Computational_Geometry
+│   └── 02-Basic_Geometry_Part_2
+│       └── 01-Circle
+│           ├── 01388.cpp
+│           ├── 10005.cpp
+│           ├── 10136.cpp
+│           ├── 10180.cpp
+│           ├── 10209.cpp
+│           ├── 10221.cpp
+│           ├── 10283.cpp
+│           ├── 10432.cpp
+│           ├── 10451.cpp
+│           ├── 10573.cpp
+│           ├── 10589.cpp
+│           ├── 10678.cpp
+│           └── 12578.cpp
 ├── 08-More_Advanded_Topics
 │   └── 01-More_Advanded_Search_Techniques
 │       └── 01-More_Challenging_Backtracking_Problem
@@ -645,6 +730,6 @@
 │       │   └── 11462.cpp
 │       └── 21-Tower_of_Hanoi
 │           └── 10017.cpp
-└── README.md
+└── README
 
-91 directories, 556 files
+104 directories, 628 files
