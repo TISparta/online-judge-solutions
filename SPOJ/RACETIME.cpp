@@ -1,7 +1,7 @@
 /**
  * > Author : TISparta
- * > Date : 03-05-18
- * > Tags : Sqrt decomposition, Binary search
+ * > Date : 11-08-18
+ * > Tags: SQRT Decomposition
  * > Difficulty : 5 / 10
  */
 
