@@ -18,8 +18,9 @@ urls = {
 
 SECTION_NAME = "SPOJ"
 LINK_SECTION = "https://www.spoj.com/"
+ROOT = "https://github.com/TISparta/online-judge-solutions/blob/master/SPOJ/"
 
-HEADERS = ['Problem', 'Difficulty', 'Tags']
+HEADERS = ['Problem', 'Difficulty', 'Tags', 'Solution']
 
 fileNames = [file for file in os.listdir('.') if
                 os.path.isfile(os.path.join('.', file)) and 
@@ -47,6 +48,9 @@ def parseName (str):
             name.lower() in urls else '-'.join(w.upper() for w in name.split()))
     return "[%s](%s)" %(name, link)
 
+def parseSolution (str):
+    return '[:link:](' + ROOT + str +')'
+
 table = []
 table.append(HEADERS)
 table.append(['-' * 7 for _ in range(len(HEADERS))])
@@ -60,7 +64,8 @@ for file_name in fileNames:
         date = parseDate(file.readline())
         tags = parseTags(file.readline())
         difficulty = parseDifficulty(file.readline())
-        row = [parseName(file_name), difficulty, tags]
+        solution = parseSolution(file_name)
+        row = [parseName(file_name), difficulty, tags, solution]
         table.append(row)
 
 table[2:] = sorted(table[2:], key = lambda row: row[1])
