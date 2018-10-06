@@ -8,7 +8,7 @@ import os
 # Extensions to include
 extensions = ['cpp', 'py']
 # Files to ignore
-ignore = ['readme-generator.py']
+ignore = ['readme-generator-spoj.py']
 
 # Mapping problem with urls
 urls = {
