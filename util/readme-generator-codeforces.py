@@ -22,38 +22,49 @@ ROOT = "https://github.com/TISparta/online-judge-solutions/blob/master/Codeforce
 HEADERS = ['Problem', 'Difficulty', 'Tags', 'Solution']
 
 # util functions
-def parseDate (str):
+
+
+def parseDate(str):
     str = str[str.find(':') + 1:].strip()
     return str
 
-def parseTags (str):
+
+def parseTags(str):
     str = str[str.find(':') + 1:].strip().split(',')
     str = [tag.strip() for tag in str]
     return ', '.join(tag for tag in str)
 
-def parseDifficulty (str):
+
+def parseDifficulty(str):
     str = str[str.find(':') + 1:].strip().split('/')
     dif = int(str[0].strip())
     return ':red_circle:' * dif + ':black_circle:' * (10 - dif)
 
-def parseName (str):
+
+def parseName(str):
     str = str[:str.find('.')]
     str = str.replace('-', ' ')
     name = str.replace('_', ' ')
     return name
 
-def getSolutionLink (contest_name, problem_letter):
+
+def getSolutionLink(contest_name, problem_letter):
     return '[:link:](' + ROOT + contest_name + '/' + problem_letter + ')'
 
-def getProblemNames (problem_name, contest_id):
-    result = requests.get('https://codeforces.com/api/contest.standings?contestId=' + contest_id)
+
+def getProblemNames(problem_name, contest_id):
+    result = requests.get(
+        'https://codeforces.com/api/contest.standings?contestId=' + contest_id)
     problem_name[contest_id] = dict()
     for problem in result.json()['result']['problems']:
         problem_name[contest_id][problem['index']] = problem['name']
 
-def getProblemLink (contest_id, problem_letter, problem_name):
-    problem_link =  LINK_SECTION + 'contest/' + contest_id + '/problem/' + problem_letter
-    return '[%s](%s)' %(problem_name, problem_link)
+
+def getProblemLink(contest_id, problem_letter, problem_name):
+    problem_link = LINK_SECTION + 'contest/' + \
+        contest_id + '/problem/' + problem_letter
+    return '[%s](%s)' % (problem_name, problem_link)
+
 
 table = []
 table.append(HEADERS)
@@ -83,14 +94,17 @@ for contest_name in os.listdir('.'):
                     difficulty = parseDifficulty(file.readline())
                     solution_link = getSolutionLink(contest_name, file_name)
                     problem_letter = parseName(file_name)
-                    name = problem_letter + ' - ' + problem_names[contest_id][problem_letter]
-                    row = [getProblemLink(contest_id, problem_letter, name), difficulty, tags, solution_link]
-                    row_weight[solution_link] = (contest_id, problem_letter)
+                    name = problem_letter + ' - ' + \
+                        problem_names[contest_id][problem_letter]
+                    row = [getProblemLink(
+                        contest_id, problem_letter, name), difficulty, tags, solution_link]
+                    row_weight[solution_link] = (int(contest_id), problem_letter)
                     table.append(row)
 
-table[2:] = sorted(table[2:], key = lambda row: (row_weight[row[-1]][0], row_weight[row[-1]][1]))
+table[2:] = sorted(table[2:], key=lambda row: (
+    row_weight[row[-1]][0], row_weight[row[-1]][1]))
 
 with open('README.md', 'w') as readme:
-    readme.write('# [%s](%s)\n' %(SECTION_NAME, LINK_SECTION))
+    readme.write('# [%s](%s)\n' % (SECTION_NAME, LINK_SECTION))
     readme.write('\n')
     readme.write('\n'.join(' | '.join(c for c in r) for r in table))
