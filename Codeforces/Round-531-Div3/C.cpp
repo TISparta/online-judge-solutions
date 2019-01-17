@@ -1,7 +1,7 @@
 /**
  * > Author: TISparta
  * > Date: 09-01-19
- * > Tags: Number Theory
+ * > Tags: Game Theory
  * > Difficulty: 3 / 10
  */
 
