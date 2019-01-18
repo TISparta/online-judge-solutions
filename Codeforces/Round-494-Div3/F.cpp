@@ -1,7 +1,7 @@
 /**
  * > Author: TISparta
- * > Date: 23-12-18
- * > Tags: Hashing, Z function
+ * > Date: 23-12-19
+ * > Tags: Hashing, Z function, Brute Force
  * > Difficulty: 5 / 10
  */
 

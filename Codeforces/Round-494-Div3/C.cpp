@@ -1,6 +1,6 @@
 /**
  * > Author: TISparta
- * > Date: 08-01-18
+ * > Date: 08-01-19
  * > Tags: Brute Force
  * > Difficulty: 2 / 10
  */
