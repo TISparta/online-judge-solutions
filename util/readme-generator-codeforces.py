@@ -84,8 +84,9 @@ for contest_name in os.listdir('.'):
                 contest_id = contests_id[contest_name]
                 if contest_id not in problem_names:
                     # I'll do it in parallel in the future
+                    print("Getting Data from " + contest_name
+                            + " " + contest_id)
                     getProblemNames(problem_names, contest_id)
-                contest_id = contests_id[contest_name]
                 with open(os.path.join(path, file_name)) as file:
                     foo = file.readline()
                     author = file.readline()
