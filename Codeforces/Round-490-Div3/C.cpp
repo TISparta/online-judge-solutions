@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 08-01-19
- * > Tags: Brute Force
- * > Difficulty: 2 / 10
- */
+// Brute Force
+// 2
+// 08-01-2019
 
 #include <bits/stdc++.h>
 

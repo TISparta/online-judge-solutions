@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 23-12-19
- * > Tags: Constructive Algorithms
- * > Difficulty: 4 / 10
- */
+// Constructive Algorithms
+// 4
+// 23-12-2019
 
 #include <bits/stdc++.h>
 

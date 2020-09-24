@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 09-01-19
- * > Tags: BIT
- * > Difficulty: 4 / 10
- */
+// BIT
+// 4
+// 09-01-2019
 
 #include <bits/stdc++.h>
 

@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 09-01-19
- * > Tags: DP, Bitmask
- * > Difficulty: 4 / 10
- */
+// DP, Bitmask
+// 4
+// 09-01-2019
 
 #include <bits/stdc++.h>
 

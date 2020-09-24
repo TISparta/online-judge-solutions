@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 20-01-19
- * > Tags: Ad-Hoc
- * > Difficulty: 2 / 10
- */
+// Ad-Hoc
+// 2
+// 20-01-2019
 
 #include <bits/stdc++.h>
 

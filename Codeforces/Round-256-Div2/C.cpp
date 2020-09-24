@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 20-01-19
- * > Tags: Divide And Conquer
- * > Difficulty: 4 / 10
- */
+// Divide and Conquer
+// 4
+// 20-01-2019
 
 #include <bits/stdc++.h>
 

@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 07-01-19
- * > Tags: Segment Tree, Lazy Propagation
- * > Difficulty: 6 / 10
- */
+// Segment Tree, Lazy Propagation
+// 6
+// 07-01-2019
 
 #include <bits/stdc++.h>
 

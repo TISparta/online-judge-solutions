@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 27-01-19
- * > Tags: Mobius
- * > Difficulty: 5 / 10
- */
+// Mobius
+// 5
+// 27-01-2019
 
 #include <bits/stdc++.h>
 

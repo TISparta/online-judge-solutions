@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 08-01-19
- * > Tags: Greedy, Binary Search
- * > Difficulty: 3 / 10
- */
+// Greedy, Binary Search
+// 3
+// 08-01-2019
 
 #include <bits/stdc++.h>
 

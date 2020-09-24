@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 07-10-19
- * > Tags: Binary Lifting
- * > Difficulty: 5 / 10
- */
+// Binary Lifting
+// 5
+// 07-10-2019
 
 #include <bits/stdc++.h>
 

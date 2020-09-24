@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 17-01-19
- * > Tags: Cummulative Sums
- * > Difficulty: 3 / 10
- */
+// Cummulative Sums
+// 3
+// 17-01-2019
 
 #include <bits/stdc++.h>
 

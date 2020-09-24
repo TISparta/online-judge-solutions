@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 17-01-19
- * > Tags: Implementation
- * > Difficulty: 1 / 10
- */
+// Implementation
+// 1
+// 17-01-2019
 
 #include <bits/stdc++.h>
 

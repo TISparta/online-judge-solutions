@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 09-01-19
- * > Tags: Game Theory
- * > Difficulty: 3 / 10
- */
+// Game Theory
+// 3
+// 09-01-2019
 
 #include <bits/stdc++.h>
 

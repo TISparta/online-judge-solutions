@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 29-12-18
- * > Tags: Matrix Multiplication
- * > Difficulty: 4 / 10
- */
+// Matrix Multiplicatino
+// 4
+// 29-12-2018
 
 #include <bits/stdc++.h>
 

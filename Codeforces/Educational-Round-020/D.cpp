@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 07-01-19
- * > Tags: Binary Search
- * > Difficulty: 4 / 10
- */
+// Binary Search
+// 4
+// 07-01-2019
 
 #include <bits/stdc++.h>
 

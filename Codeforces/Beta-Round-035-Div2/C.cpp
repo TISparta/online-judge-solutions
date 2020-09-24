@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 24-12-18
- * > Tags: BFS
- * > Difficulty: 3 / 10
- */
+// BFS
+// 3
+// 24-12-2018
 
 #include <bits/stdc++.h>
 

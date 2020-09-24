@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 24-12-18
- * > Tags: Sweep Line
- * > Difficulty: 4 / 10
- */
+// Sweep Line
+// 4
+// 24-12-2018
 
 #include <bits/stdc++.h>
 

@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 24-12-18
- * > Tags: DP
- * > Difficulty: 3 / 10
- */
+// DP
+// 3
+// 24-12-2018
 
 #include <bits/stdc++.h>
 

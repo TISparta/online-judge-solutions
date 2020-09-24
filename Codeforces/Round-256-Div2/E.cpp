@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 20-01-19
- * > Tags: Brute Force, Number Theory
- * > Difficulty: 5 / 10
- */
+// Brute Force, Number Theory
+// 5
+// 20-01-2019
 
 #include <bits/stdc++.h>
 

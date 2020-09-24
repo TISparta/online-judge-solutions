@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 09-01-19
- * > Tags: Greedy
- * > Difficulty: 3 / 10
- */
+// Greedy
+// 3
+// 09-01-2019
 
 #include <bits/stdc++.h>
 

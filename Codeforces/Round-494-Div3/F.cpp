@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 23-12-19
- * > Tags: Hashing, Z function, Brute Force
- * > Difficulty: 5 / 10
- */
+// Hashing, Z function, Brute Force
+// 5
+// 23-12-2019
 
 #include <bits/stdc++.h>
 

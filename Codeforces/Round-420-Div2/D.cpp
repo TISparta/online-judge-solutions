@@ -1,9 +1,6 @@
-/**
- * > Author: TISparta
- * > Date: 29-12-18
- * > Tags: Dijkstra
- * > Difficulty: 5 / 10
- */
+// Dijkstra
+// 5
+// 29-12-2018
 
 #include <bits/stdc++.h>
 
