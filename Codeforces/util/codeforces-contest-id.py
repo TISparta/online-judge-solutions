@@ -7,6 +7,10 @@ contestId = {
     "Round-420-Div2": "821",
     "Round-490-Div3": "999",
     "Round-494-Div3": "1003",
-    "Round-531-Div3": "1102"
+    "Round-531-Div3": "1102",
+    "Round-181-Div2": "300",
+    "Round-236-Div2": "402",
+    "Round-661-Div3": "1399",
+    "Round-667-Div3": "1409"
 }
 # Maybe I should get it with the CF API in the future
