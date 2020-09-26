@@ -45,7 +45,7 @@ def retrieve_data (path, contest_name):
     for row in result.json()['result']['problems']:
         df = df.append({
             'contest_id': row['contestId'],
-            'problem_name': row['index'] + ' - ' + row['name'],
+            'problem_name': 'CF' + str(contest_id) + row['index'] + ' - ' + row['name'],
             'problem_link': 'https://codeforces.com/contest/' + contest_id + '/problem/' + row['index'],
             'rating': row['rating'],
             'tags': data[row['index']][0],
