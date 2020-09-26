@@ -1,4 +1,4 @@
-// Matrix Multiplicatino
+// Matrix Multiplication
 // 4
 // 29-12-2018
 
