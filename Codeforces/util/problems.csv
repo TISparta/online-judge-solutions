@@ -1,74 +1,80 @@
-,Unnamed: 0,contest_id,problem_name,rating,tags,difficulty,solution_link,problem_link
-0,0.0,1003,CF1003A - Polycarp's Pockets,800,Brute Force,1,Round-494-Div3/A.cpp,https://codeforces.com/contest/1003/problem/A
-1,1.0,1003,CF1003B - Binary String Constructing,1300,Greedy,2,Round-494-Div3/B.cpp,https://codeforces.com/contest/1003/problem/B
-2,2.0,1003,CF1003C - Intense Heat,1300,Brute Force,2,Round-494-Div3/C.cpp,https://codeforces.com/contest/1003/problem/C
-3,3.0,1003,CF1003D - Coins and Queries,1600,"Greedy, Binary Search",3,Round-494-Div3/D.cpp,https://codeforces.com/contest/1003/problem/D
-4,4.0,1003,CF1003E - Tree Constructing,2100,Constructive Algorithms,4,Round-494-Div3/E.cpp,https://codeforces.com/contest/1003/problem/E
-5,5.0,1003,CF1003F - Abbreviation,2200,"Hashing, Z function, Brute Force",5,Round-494-Div3/F.cpp,https://codeforces.com/contest/1003/problem/F
-6,6.0,1102,CF1102A - Integer Sequence Dividing,800,Ad-Hoc,1,Round-531-Div3/A.cpp,https://codeforces.com/contest/1102/problem/A
-7,7.0,1102,CF1102B - Array K-Coloring,1400,Greedy,2,Round-531-Div3/B.cpp,https://codeforces.com/contest/1102/problem/B
-8,8.0,1102,CF1102C - Doors Breaking and Repairing,1200,Game Theory,3,Round-531-Div3/C.cpp,https://codeforces.com/contest/1102/problem/C
-9,9.0,1102,CF1102D - Balanced Ternary String,1500,Greedy,3,Round-531-Div3/D.cpp,https://codeforces.com/contest/1102/problem/D
-10,10.0,1102,CF1102E - Monotonic Renumeration,1700,BIT,4,Round-531-Div3/E.cpp,https://codeforces.com/contest/1102/problem/E
-11,11.0,1102,CF1102F - Elongated Matrix,2000,"DP, Bitmask",4,Round-531-Div3/F.cpp,https://codeforces.com/contest/1102/problem/F
-12,12.0,402,CF402A - Nuts,1100,Brute Force,2,Round-236-Div2/A.cpp,https://codeforces.com/contest/402/problem/A
-13,13.0,402,CF402B - Trees in a Row,1400,Brute Force,2,Round-236-Div2/B.cpp,https://codeforces.com/contest/402/problem/B
-14,14.0,402,CF402C - Searching for Graph,1500,Greedy,3,Round-236-Div2/C.cpp,https://codeforces.com/contest/402/problem/C
-15,15.0,402,CF402D - Upgrading Array,1800,Greedy,4,Round-236-Div2/D.cpp,https://codeforces.com/contest/402/problem/D
-16,16.0,402,CF402E - Strictly Positive Matrix,2200,SCC,5,Round-236-Div2/E.cpp,https://codeforces.com/contest/402/problem/E
-17,17.0,1399,CF1399A - Remove Smallest,800,Ad-Hoc,2,Round-661-Div3/A.cpp,https://codeforces.com/contest/1399/problem/A
-18,18.0,1399,CF1399B - Gifts Fixing,800,Greedy,2,Round-661-Div3/B.cpp,https://codeforces.com/contest/1399/problem/B
-19,19.0,1399,CF1399C - Boats Competition,1200,Greedy,3,Round-661-Div3/C.cpp,https://codeforces.com/contest/1399/problem/C
-20,20.0,1399,CF1399D - Binary String To Subsequences,1500,Implementation,3,Round-661-Div3/D.cpp,https://codeforces.com/contest/1399/problem/D
-21,21.0,1399,CF1399E1 - Weights Division (easy version),2000,Greedy,4,Round-661-Div3/E1.cpp,https://codeforces.com/contest/1399/problem/E1
-22,22.0,1399,CF1399E2 - Weights Division (hard version),2200,"Greedy, Two Pointers",5,Round-661-Div3/E2.cpp,https://codeforces.com/contest/1399/problem/E2
-23,23.0,1399,CF1399F - Yet Another Segments Subset,2300,DP,5,Round-661-Div3/F.cpp,https://codeforces.com/contest/1399/problem/F
-24,24.0,448,CF448A - Rewards,800,Ad-Hoc,2,Round-256-Div2/A.cpp,https://codeforces.com/contest/448/problem/A
-25,25.0,448,CF448B - Suffix Structures,1400,Ad-Hoc,2,Round-256-Div2/B.cpp,https://codeforces.com/contest/448/problem/B
-26,26.0,448,CF448C - Painting Fence,1900,Divide and Conquer,4,Round-256-Div2/C.cpp,https://codeforces.com/contest/448/problem/C
-27,27.0,448,CF448D - Multiplication Table,1800,Binary Search,4,Round-256-Div2/D.cpp,https://codeforces.com/contest/448/problem/D
-28,28.0,448,CF448E - Divisors,2200,"Brute Force, Number Theory",5,Round-256-Div2/E.cpp,https://codeforces.com/contest/448/problem/E
-29,29.0,999,CF999A - Mishka and Contest,800,Ad-Hoc,1,Round-490-Div3/A.cpp,https://codeforces.com/contest/999/problem/A
-30,30.0,999,CF999B - Reversing Encryption,900,Implementation,2,Round-490-Div3/B.cpp,https://codeforces.com/contest/999/problem/B
-31,31.0,999,CF999C - Alphabetic Removals,1200,Brute Force,2,Round-490-Div3/C.cpp,https://codeforces.com/contest/999/problem/C
-32,32.0,999,CF999D - Equalize the Remainders,1900,Greedy,4,Round-490-Div3/D.cpp,https://codeforces.com/contest/999/problem/D
-33,33.0,999,CF999E - Reachability from the Capital,2000,"DFS, Greedy",4,Round-490-Div3/E.cpp,https://codeforces.com/contest/999/problem/E
-34,34.0,999,CF999F - Cards and Joy,2000,DP,4,Round-490-Div3/F.cpp,https://codeforces.com/contest/999/problem/F
-35,35.0,803,CF803A - Maximal Binary Matrix,1400,Implementation,2,Educational-Round-020/A.cpp,https://codeforces.com/contest/803/problem/A
-36,36.0,803,CF803B - Distances to Zero,1200,Ad-Hoc,2,Educational-Round-020/B.cpp,https://codeforces.com/contest/803/problem/B
-37,37.0,803,CF803C - Maximal GCD,1900,Greedy,3,Educational-Round-020/C.cpp,https://codeforces.com/contest/803/problem/C
-38,38.0,803,CF803D - Magazine Ad,1900,Binary Search,4,Educational-Round-020/D.cpp,https://codeforces.com/contest/803/problem/D
-39,39.0,803,CF803E - Roma and Poker,2000,DP,4,Educational-Round-020/E.cpp,https://codeforces.com/contest/803/problem/E
-40,40.0,803,CF803F - Coprime Subsequences,2000,Mobius,5,Educational-Round-020/F.cpp,https://codeforces.com/contest/803/problem/F
-41,41.0,803,CF803G - Periodic RMQ Problem,2300,"Segment Tree, Lazy Propagation",6,Educational-Round-020/G.cpp,https://codeforces.com/contest/803/problem/G
-42,42.0,1409,CF1409A - Yet Another Two Integers Problem,800,Math,1,Round-667-Div3/A.cpp,https://codeforces.com/contest/1409/problem/A
-43,43.0,1409,CF1409B - Minimum Product,1100,Greedy,4,Round-667-Div3/B.cpp,https://codeforces.com/contest/1409/problem/B
-44,44.0,1409,CF1409C - Yet Another Array Restoration,1200,Brute Force,2,Round-667-Div3/C.cpp,https://codeforces.com/contest/1409/problem/C
-45,45.0,1409,CF1409D - Decrease the Sum of Digits,1500,Math,3,Round-667-Div3/D.cpp,https://codeforces.com/contest/1409/problem/D
-46,46.0,1409,CF1409E - Two Platforms,1800,"Brute Force, Binary Search",3,Round-667-Div3/E.cpp,https://codeforces.com/contest/1409/problem/E
-47,47.0,1409,CF1409F - Subsequences of Length Two,2100,DP,4,Round-667-Div3/F.cpp,https://codeforces.com/contest/1409/problem/F
-48,48.0,519,CF519A - A and B and Chess,900,Implementation,1,Round-294-Div2/A.cpp,https://codeforces.com/contest/519/problem/A
-49,49.0,519,CF519B - A and B and Compilation Errors,1100,Ad-Hoc,1,Round-294-Div2/B.cpp,https://codeforces.com/contest/519/problem/B
-50,50.0,519,CF519C - A and B and Team Training,1300,Brute Force,3,Round-294-Div2/C.cpp,https://codeforces.com/contest/519/problem/C
-51,51.0,519,CF519D - A and B and Interesting Substrings,1800,Cummulative Sums,3,Round-294-Div2/D.cpp,https://codeforces.com/contest/519/problem/D
-52,52.0,519,CF519E - A and B and Lecture Rooms,2100,Binary Lifting,5,Round-294-Div2/E.cpp,https://codeforces.com/contest/519/problem/E
-53,53.0,35,CF35A - Shell Game,1000,Ad-Hoc,1,Beta-Round-035-Div2/A.cpp,https://codeforces.com/contest/35/problem/A
-54,54.0,35,CF35B - Warehouse,1700,Brute Force,2,Beta-Round-035-Div2/B.cpp,https://codeforces.com/contest/35/problem/B
-55,55.0,35,CF35C - Fire Again,1500,BFS,3,Beta-Round-035-Div2/C.cpp,https://codeforces.com/contest/35/problem/C
-56,56.0,35,CF35D - Animals,1700,DP,3,Beta-Round-035-Div2/D.cpp,https://codeforces.com/contest/35/problem/D
-57,57.0,35,CF35E - Parade,2100,Sweep Line,4,Beta-Round-035-Div2/E.cpp,https://codeforces.com/contest/35/problem/E
-58,58.0,300,CF300A - Array,1100,Implementantion,2,Round-181-Div2/A.cpp,https://codeforces.com/contest/300/problem/A
-59,59.0,300,CF300B - Coach,1500,DFS,3,Round-181-Div2/B.cpp,https://codeforces.com/contest/300/problem/B
-60,60.0,300,CF300C - Beautiful Numbers,1800,Combinatorics,3,Round-181-Div2/C.cpp,https://codeforces.com/contest/300/problem/C
-61,61.0,300,CF300D - Painting Square,2300,DP on trees,5,Round-181-Div2/D.cpp,https://codeforces.com/contest/300/problem/D
-62,62.0,300,CF300E - Empire Strikes Back,2300,"Number Theory, Binary Search",5,Round-181-Div2/E.cpp,https://codeforces.com/contest/300/problem/E
-63,63.0,821,CF821A - Okabe and Future Gadget Laboratory,800,Brute Force,1,Round-420-Div2/A.cpp,https://codeforces.com/contest/821/problem/A
-64,64.0,821,CF821B - Okabe and Banana Trees,1300,Brute Force,2,Round-420-Div2/B.cpp,https://codeforces.com/contest/821/problem/B
-65,65.0,821,CF821C - Okabe and Boxes,1500,Greedy,3,Round-420-Div2/C.cpp,https://codeforces.com/contest/821/problem/C
-66,66.0,821,CF821D - Okabe and City,2200,Dijkstra,5,Round-420-Div2/D.cpp,https://codeforces.com/contest/821/problem/D
-67,67.0,821,CF821E - Okabe and El Psy Kongroo,2100,Matrix Multiplication,4,Round-420-Div2/E.cpp,https://codeforces.com/contest/821/problem/E
-68,,1407,CF1407A - Ahahahahahahahaha,1100,Math,3,Round-669-Div2/A.cpp,https://codeforces.com/contest/1407/problem/A
-69,,1407,CF1407B - Big Vova,1300,Brute Force,3,Round-669-Div2/B.cpp,https://codeforces.com/contest/1407/problem/B
-70,,1407,CF1407C - Chocolate Bunny,1600,"Constructive, Math",4,Round-669-Div2/C.cpp,https://codeforces.com/contest/1407/problem/C
-71,,1407,CF1407D - Discrete Centrifugal Jumps,2200,"DP, Greedy",5,Round-669-Div2/D.cpp,https://codeforces.com/contest/1407/problem/D
-72,,1407,CF1407E - Egor in the Republic of Dagestan,2500,BFS,5,Round-669-Div2/E.cpp,https://codeforces.com/contest/1407/problem/E
+,Unnamed: 0,Unnamed: 0.1,contest_id,problem_name,rating,tags,difficulty,solution_link,problem_link
+0,0.0,0.0,1003,CF1003A - Polycarp's Pockets,800,Brute Force,1,Round-494-Div3/A.cpp,https://codeforces.com/contest/1003/problem/A
+1,1.0,1.0,1003,CF1003B - Binary String Constructing,1300,Greedy,2,Round-494-Div3/B.cpp,https://codeforces.com/contest/1003/problem/B
+2,2.0,2.0,1003,CF1003C - Intense Heat,1300,Brute Force,2,Round-494-Div3/C.cpp,https://codeforces.com/contest/1003/problem/C
+3,3.0,3.0,1003,CF1003D - Coins and Queries,1600,"Greedy, Binary Search",3,Round-494-Div3/D.cpp,https://codeforces.com/contest/1003/problem/D
+4,4.0,4.0,1003,CF1003E - Tree Constructing,2100,Constructive Algorithms,4,Round-494-Div3/E.cpp,https://codeforces.com/contest/1003/problem/E
+5,5.0,5.0,1003,CF1003F - Abbreviation,2200,"Hashing, Z function, Brute Force",5,Round-494-Div3/F.cpp,https://codeforces.com/contest/1003/problem/F
+6,6.0,6.0,1102,CF1102A - Integer Sequence Dividing,800,Ad-Hoc,1,Round-531-Div3/A.cpp,https://codeforces.com/contest/1102/problem/A
+7,7.0,7.0,1102,CF1102B - Array K-Coloring,1400,Greedy,2,Round-531-Div3/B.cpp,https://codeforces.com/contest/1102/problem/B
+8,8.0,8.0,1102,CF1102C - Doors Breaking and Repairing,1200,Game Theory,3,Round-531-Div3/C.cpp,https://codeforces.com/contest/1102/problem/C
+9,9.0,9.0,1102,CF1102D - Balanced Ternary String,1500,Greedy,3,Round-531-Div3/D.cpp,https://codeforces.com/contest/1102/problem/D
+10,10.0,10.0,1102,CF1102E - Monotonic Renumeration,1700,BIT,4,Round-531-Div3/E.cpp,https://codeforces.com/contest/1102/problem/E
+11,11.0,11.0,1102,CF1102F - Elongated Matrix,2000,"DP, Bitmask",4,Round-531-Div3/F.cpp,https://codeforces.com/contest/1102/problem/F
+12,12.0,12.0,402,CF402A - Nuts,1100,Brute Force,2,Round-236-Div2/A.cpp,https://codeforces.com/contest/402/problem/A
+13,13.0,13.0,402,CF402B - Trees in a Row,1400,Brute Force,2,Round-236-Div2/B.cpp,https://codeforces.com/contest/402/problem/B
+14,14.0,14.0,402,CF402C - Searching for Graph,1500,Greedy,3,Round-236-Div2/C.cpp,https://codeforces.com/contest/402/problem/C
+15,15.0,15.0,402,CF402D - Upgrading Array,1800,Greedy,4,Round-236-Div2/D.cpp,https://codeforces.com/contest/402/problem/D
+16,16.0,16.0,402,CF402E - Strictly Positive Matrix,2200,SCC,5,Round-236-Div2/E.cpp,https://codeforces.com/contest/402/problem/E
+17,17.0,17.0,1399,CF1399A - Remove Smallest,800,Ad-Hoc,2,Round-661-Div3/A.cpp,https://codeforces.com/contest/1399/problem/A
+18,18.0,18.0,1399,CF1399B - Gifts Fixing,800,Greedy,2,Round-661-Div3/B.cpp,https://codeforces.com/contest/1399/problem/B
+19,19.0,19.0,1399,CF1399C - Boats Competition,1200,Greedy,3,Round-661-Div3/C.cpp,https://codeforces.com/contest/1399/problem/C
+20,20.0,20.0,1399,CF1399D - Binary String To Subsequences,1500,Implementation,3,Round-661-Div3/D.cpp,https://codeforces.com/contest/1399/problem/D
+21,21.0,21.0,1399,CF1399E1 - Weights Division (easy version),2000,Greedy,4,Round-661-Div3/E1.cpp,https://codeforces.com/contest/1399/problem/E1
+22,22.0,22.0,1399,CF1399E2 - Weights Division (hard version),2200,"Greedy, Two Pointers",5,Round-661-Div3/E2.cpp,https://codeforces.com/contest/1399/problem/E2
+23,23.0,23.0,1399,CF1399F - Yet Another Segments Subset,2300,DP,5,Round-661-Div3/F.cpp,https://codeforces.com/contest/1399/problem/F
+24,24.0,24.0,448,CF448A - Rewards,800,Ad-Hoc,2,Round-256-Div2/A.cpp,https://codeforces.com/contest/448/problem/A
+25,25.0,25.0,448,CF448B - Suffix Structures,1400,Ad-Hoc,2,Round-256-Div2/B.cpp,https://codeforces.com/contest/448/problem/B
+26,26.0,26.0,448,CF448C - Painting Fence,1900,Divide and Conquer,4,Round-256-Div2/C.cpp,https://codeforces.com/contest/448/problem/C
+27,27.0,27.0,448,CF448D - Multiplication Table,1800,Binary Search,4,Round-256-Div2/D.cpp,https://codeforces.com/contest/448/problem/D
+28,28.0,28.0,448,CF448E - Divisors,2200,"Brute Force, Number Theory",5,Round-256-Div2/E.cpp,https://codeforces.com/contest/448/problem/E
+29,29.0,29.0,999,CF999A - Mishka and Contest,800,Ad-Hoc,1,Round-490-Div3/A.cpp,https://codeforces.com/contest/999/problem/A
+30,30.0,30.0,999,CF999B - Reversing Encryption,900,Implementation,2,Round-490-Div3/B.cpp,https://codeforces.com/contest/999/problem/B
+31,31.0,31.0,999,CF999C - Alphabetic Removals,1200,Brute Force,2,Round-490-Div3/C.cpp,https://codeforces.com/contest/999/problem/C
+32,32.0,32.0,999,CF999D - Equalize the Remainders,1900,Greedy,4,Round-490-Div3/D.cpp,https://codeforces.com/contest/999/problem/D
+33,33.0,33.0,999,CF999E - Reachability from the Capital,2000,"DFS, Greedy",4,Round-490-Div3/E.cpp,https://codeforces.com/contest/999/problem/E
+34,34.0,34.0,999,CF999F - Cards and Joy,2000,DP,4,Round-490-Div3/F.cpp,https://codeforces.com/contest/999/problem/F
+35,35.0,35.0,803,CF803A - Maximal Binary Matrix,1400,Implementation,2,Educational-Round-020/A.cpp,https://codeforces.com/contest/803/problem/A
+36,36.0,36.0,803,CF803B - Distances to Zero,1200,Ad-Hoc,2,Educational-Round-020/B.cpp,https://codeforces.com/contest/803/problem/B
+37,37.0,37.0,803,CF803C - Maximal GCD,1900,Greedy,3,Educational-Round-020/C.cpp,https://codeforces.com/contest/803/problem/C
+38,38.0,38.0,803,CF803D - Magazine Ad,1900,Binary Search,4,Educational-Round-020/D.cpp,https://codeforces.com/contest/803/problem/D
+39,39.0,39.0,803,CF803E - Roma and Poker,2000,DP,4,Educational-Round-020/E.cpp,https://codeforces.com/contest/803/problem/E
+40,40.0,40.0,803,CF803F - Coprime Subsequences,2000,Mobius,5,Educational-Round-020/F.cpp,https://codeforces.com/contest/803/problem/F
+41,41.0,41.0,803,CF803G - Periodic RMQ Problem,2300,"Segment Tree, Lazy Propagation",6,Educational-Round-020/G.cpp,https://codeforces.com/contest/803/problem/G
+42,42.0,42.0,1409,CF1409A - Yet Another Two Integers Problem,800,Math,1,Round-667-Div3/A.cpp,https://codeforces.com/contest/1409/problem/A
+43,43.0,43.0,1409,CF1409B - Minimum Product,1100,Greedy,4,Round-667-Div3/B.cpp,https://codeforces.com/contest/1409/problem/B
+44,44.0,44.0,1409,CF1409C - Yet Another Array Restoration,1200,Brute Force,2,Round-667-Div3/C.cpp,https://codeforces.com/contest/1409/problem/C
+45,45.0,45.0,1409,CF1409D - Decrease the Sum of Digits,1500,Math,3,Round-667-Div3/D.cpp,https://codeforces.com/contest/1409/problem/D
+46,46.0,46.0,1409,CF1409E - Two Platforms,1800,"Brute Force, Binary Search",3,Round-667-Div3/E.cpp,https://codeforces.com/contest/1409/problem/E
+47,47.0,47.0,1409,CF1409F - Subsequences of Length Two,2100,DP,4,Round-667-Div3/F.cpp,https://codeforces.com/contest/1409/problem/F
+48,48.0,48.0,519,CF519A - A and B and Chess,900,Implementation,1,Round-294-Div2/A.cpp,https://codeforces.com/contest/519/problem/A
+49,49.0,49.0,519,CF519B - A and B and Compilation Errors,1100,Ad-Hoc,1,Round-294-Div2/B.cpp,https://codeforces.com/contest/519/problem/B
+50,50.0,50.0,519,CF519C - A and B and Team Training,1300,Brute Force,3,Round-294-Div2/C.cpp,https://codeforces.com/contest/519/problem/C
+51,51.0,51.0,519,CF519D - A and B and Interesting Substrings,1800,Cummulative Sums,3,Round-294-Div2/D.cpp,https://codeforces.com/contest/519/problem/D
+52,52.0,52.0,519,CF519E - A and B and Lecture Rooms,2100,Binary Lifting,5,Round-294-Div2/E.cpp,https://codeforces.com/contest/519/problem/E
+53,53.0,53.0,35,CF35A - Shell Game,1000,Ad-Hoc,1,Beta-Round-035-Div2/A.cpp,https://codeforces.com/contest/35/problem/A
+54,54.0,54.0,35,CF35B - Warehouse,1700,Brute Force,2,Beta-Round-035-Div2/B.cpp,https://codeforces.com/contest/35/problem/B
+55,55.0,55.0,35,CF35C - Fire Again,1500,BFS,3,Beta-Round-035-Div2/C.cpp,https://codeforces.com/contest/35/problem/C
+56,56.0,56.0,35,CF35D - Animals,1700,DP,3,Beta-Round-035-Div2/D.cpp,https://codeforces.com/contest/35/problem/D
+57,57.0,57.0,35,CF35E - Parade,2100,Sweep Line,4,Beta-Round-035-Div2/E.cpp,https://codeforces.com/contest/35/problem/E
+58,58.0,58.0,300,CF300A - Array,1100,Implementantion,2,Round-181-Div2/A.cpp,https://codeforces.com/contest/300/problem/A
+59,59.0,59.0,300,CF300B - Coach,1500,DFS,3,Round-181-Div2/B.cpp,https://codeforces.com/contest/300/problem/B
+60,60.0,60.0,300,CF300C - Beautiful Numbers,1800,Combinatorics,3,Round-181-Div2/C.cpp,https://codeforces.com/contest/300/problem/C
+61,61.0,61.0,300,CF300D - Painting Square,2300,DP on trees,5,Round-181-Div2/D.cpp,https://codeforces.com/contest/300/problem/D
+62,62.0,62.0,300,CF300E - Empire Strikes Back,2300,"Number Theory, Binary Search",5,Round-181-Div2/E.cpp,https://codeforces.com/contest/300/problem/E
+63,63.0,63.0,821,CF821A - Okabe and Future Gadget Laboratory,800,Brute Force,1,Round-420-Div2/A.cpp,https://codeforces.com/contest/821/problem/A
+64,64.0,64.0,821,CF821B - Okabe and Banana Trees,1300,Brute Force,2,Round-420-Div2/B.cpp,https://codeforces.com/contest/821/problem/B
+65,65.0,65.0,821,CF821C - Okabe and Boxes,1500,Greedy,3,Round-420-Div2/C.cpp,https://codeforces.com/contest/821/problem/C
+66,66.0,66.0,821,CF821D - Okabe and City,2200,Dijkstra,5,Round-420-Div2/D.cpp,https://codeforces.com/contest/821/problem/D
+67,67.0,67.0,821,CF821E - Okabe and El Psy Kongroo,2100,Matrix Multiplication,4,Round-420-Div2/E.cpp,https://codeforces.com/contest/821/problem/E
+68,68.0,,1407,CF1407A - Ahahahahahahahaha,1100,Math,3,Round-669-Div2/A.cpp,https://codeforces.com/contest/1407/problem/A
+69,69.0,,1407,CF1407B - Big Vova,1300,Brute Force,3,Round-669-Div2/B.cpp,https://codeforces.com/contest/1407/problem/B
+70,70.0,,1407,CF1407C - Chocolate Bunny,1600,"Constructive, Math",4,Round-669-Div2/C.cpp,https://codeforces.com/contest/1407/problem/C
+71,71.0,,1407,CF1407D - Discrete Centrifugal Jumps,2200,"DP, Greedy",5,Round-669-Div2/D.cpp,https://codeforces.com/contest/1407/problem/D
+72,72.0,,1407,CF1407E - Egor in the Republic of Dagestan,2500,BFS,5,Round-669-Div2/E.cpp,https://codeforces.com/contest/1407/problem/E
+73,,,1272,CF1272A - Three Friends,900,Brute Force,1,Round-605-Div3/A.cpp,https://codeforces.com/contest/1272/problem/A
+74,,,1272,CF1272B - Snow Walking Robot,1200,Constructive Algorithms,2,Round-605-Div3/B.cpp,https://codeforces.com/contest/1272/problem/B
+75,,,1272,CF1272C - Yet Another Broken Keyboard,1200,Math,2,Round-605-Div3/C.cpp,https://codeforces.com/contest/1272/problem/C
+76,,,1272,CF1272D - Remove One Element,1500,Two Pointers,3,Round-605-Div3/D.cpp,https://codeforces.com/contest/1272/problem/D
+77,,,1272,CF1272E - Nearest Opposite Parity,1900,BFS,4,Round-605-Div3/E.cpp,https://codeforces.com/contest/1272/problem/E
+78,,,1272,CF1272F - Two Bracket Sequences,2200,DP,5,Round-605-Div3/F.cpp,https://codeforces.com/contest/1272/problem/F
