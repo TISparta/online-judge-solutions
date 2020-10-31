@@ -1,6 +1,7 @@
 # Mapping contest with contest id
 contestId = {
     "Beta-Round-035-Div2": "35",
+    "Beta-Round-057-Div2": "61",
     "Round-181-Div2": "300",
     "Round-236-Div2": "402",
     "Round-256-Div2": "448",
@@ -15,4 +16,3 @@ contestId = {
     "Round-667-Div3": "1409",
     "Round-669-Div2": "1407"
 }
-# Maybe I should get it with the CF API in the future
