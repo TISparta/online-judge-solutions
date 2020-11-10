@@ -31,6 +31,7 @@ def retrieve_data (path, contest_name):
     if df['contest_id'].astype('str').str.contains(contest_id).any():
         return
 
+    print('Getting data from ' + contest_name + ' ' + contest_id)
     data = dict()
     for problem in os.listdir(path):
         with open(os.path.join(path, problem)) as problem_file:
@@ -40,7 +41,6 @@ def retrieve_data (path, contest_name):
             solution_link = contest_name + '/' + problem
             data[index] = (tags, difficulty, solution_link)
     
-    print('Getting data from ' + contest_name + ' ' + contest_id)
     result = requests.get(API + contest_id)
     for row in result.json()['result']['problems']:
         df = df.append({
