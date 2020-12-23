@@ -1,3 +1,7 @@
+// Segment Tree
+// 3
+// 13-12-2020
+
 #include <bits/stdc++.h>
      
 #define all(A) begin(A), end(A)
