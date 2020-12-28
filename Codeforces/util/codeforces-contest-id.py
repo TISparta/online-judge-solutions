@@ -10,6 +10,7 @@ contestId = {
     "Round-294-Div2": "519",
     "Round-394-Div2": "761",
     "Educational-Round-020": "803",
+    "Educational-Round-023": "817",
     "Round-420-Div2": "821",
     "Round-440-Div2": "872",
     "Round-452-Div2": "899",
