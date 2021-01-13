@@ -1,5 +1,6 @@
 # Mapping contest with contest id
 contestId = {
+    "Beta-Round-031-Div2": "31",
     "Beta-Round-035-Div2": "35",
     "Beta-Round-057-Div2": "61",
     "Round-181-Div2": "300",
