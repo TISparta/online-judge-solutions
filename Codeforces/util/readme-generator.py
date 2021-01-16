@@ -28,7 +28,7 @@ def parse (line):
 def retrieve_data (path, contest_name):
     global df
     contest_id = contests_id[contest_name]
-    if df['contest_id'].astype('str').str.contains(contest_id).any():
+    if df['contest_id'].astype('str').str.match(contest_id).any():
         return
 
     print('Getting data from ' + contest_name + ' ' + contest_id)
