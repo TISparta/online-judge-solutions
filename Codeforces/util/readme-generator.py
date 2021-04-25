@@ -66,8 +66,8 @@ with open('../README.md', 'w') as readme:
     readme.write(' | '.join('-' * 7 for _ in HEADERS) + '\n')
     for index, row in df.iterrows():
         problem = '[%s](%s)' %(row['problem_name'], row['problem_link'])
-        dif = int(row['difficulty'])
-        difficulty = ':red_circle:' * dif + ':black_circle:' * (10 - dif)
+        dif = float(row['difficulty'])
+        difficulty = ':red_circle:' * int(dif) + ':black_circle:' * (10 - int(dif))
         rating = row['rating']
         tags = row['tags']
         solution = '[:link:](./%s)' %(row['solution_link'])
