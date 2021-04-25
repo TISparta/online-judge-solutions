@@ -33,5 +33,6 @@ contestId = {
     "Round-667-Div3": "1409",
     "Round-669-Div2": "1407",
     "Round-688-Div2": "1453",
-    "Round-687-Div2": "1457"
+    "Round-687-Div2": "1457",
+    "Round-716-Div2": "1514"
 }
