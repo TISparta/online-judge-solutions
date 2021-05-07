@@ -1,7 +1,7 @@
 // Tags: Brute Force
 // Difficulty: 1.5
-// Priority: 4 
-// Date: 30-04-2021
+// Priority: 1
+// Date: 07-05-2021
 
 #include <bits/stdc++.h>
      
@@ -23,16 +23,22 @@ typedef vector <pll> vpll;
 
 int main () {
   ios::sync_with_stdio(false); cin.tie(0);
-  int n;
-  string s;
-  cin >> n >> s;
-  int a = count(all(s), 'A');
-  int f = count(all(s), 'F');
-  int ans = 0;
+  int n, m;
+  cin >> n >> m;
+  vll a(n);
+  for (int i = 0; i < n; i++) cin >> a[i];
+  vll b(m);
+  for (int i = 0; i < m; i++) cin >> b[i];
+  ll ans = LLONG_MAX;
   for (int i = 0; i < n; i++) {
-    if (s[i] == 'F') continue;
-    int add = (s[i] == 'I');
-    if (add + a + f == n) ans += 1;
+    ll val = LLONG_MIN;
+    for (int x = 0; x < n; x++) {
+      if (x == i) continue;
+      for (int y = 0; y < m; y++) {
+        val = max(val, a[x] * b[y]);
+      }
+    }
+    ans = min(ans, val);
   }
   cout << ans << '\n';
   return (0);

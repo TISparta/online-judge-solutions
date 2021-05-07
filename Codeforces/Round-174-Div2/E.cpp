@@ -1,6 +1,7 @@
-// DP, Greedy
-// 6.7
-// 30-04-2021
+// Tags: DP, Greedy
+// Difficulty: 6.7
+// Priority: 1
+// Date: 30-04-2021
 
 #include <bits/stdc++.h>
      

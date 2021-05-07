@@ -1,7 +1,7 @@
-// Tags: Brute Force
-// Difficulty: 1.5
-// Priority: 4 
-// Date: 30-04-2021
+// Tags: Implementation
+// Difficulty: 1.6
+// Priority: 4
+// Date: 07-05-2021
 
 #include <bits/stdc++.h>
      
@@ -23,17 +23,16 @@ typedef vector <pll> vpll;
 
 int main () {
   ios::sync_with_stdio(false); cin.tie(0);
-  int n;
-  string s;
-  cin >> n >> s;
-  int a = count(all(s), 'A');
-  int f = count(all(s), 'F');
-  int ans = 0;
-  for (int i = 0; i < n; i++) {
-    if (s[i] == 'F') continue;
-    int add = (s[i] == 'I');
-    if (add + a + f == n) ans += 1;
+  int k;
+  cin >> k;
+  // 9: 1
+  // 8: 2
+  int x = k / 2;
+  int y = k % 2;
+  if (x + y > 18) {
+    cout << -1 << '\n';
+  } else {
+    cout << string(x, '8') + string(y, '9') << '\n';
   }
-  cout << ans << '\n';
   return (0);
 }

@@ -1,6 +1,7 @@
-// Segment Tree, Lazy Propagation
-// 3.1
-// 30-04-2021
+// Tags: Segment Tree, Lazy Propagation
+// Difficulty: 3.1
+// Priority: 2
+// Date: 30-04-2021
 
 #include <bits/stdc++.h>
      
