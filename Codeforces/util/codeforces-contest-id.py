@@ -38,6 +38,7 @@ contestId = {
     "Round-669-Div2": "1407",
     "Round-688-Div2": "1453",
     "Round-687-Div2": "1457",
+    "Round-708-Div2": "1497",
     "Round-716-Div2": "1514",
     "Round-717-Div2": "1516",
     "Round-721-Div2": "1527",
