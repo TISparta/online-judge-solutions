@@ -6,6 +6,7 @@ contestId = {
     "Beta-Round-079-Div2": "102",
     "Beta-Round-085-Div2": "112",
     "Round-105-Div2": "148",
+    "VK-Cup-2012-Qualification-Round-1": "158",
     "Round-174-Div2": "284",
     "Round-181-Div2": "300",
     "Round-183-Div2": "303",
