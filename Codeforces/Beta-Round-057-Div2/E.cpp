@@ -1,6 +1,7 @@
-// BIT
-// 4
-// 11-01-2018
+// Tags: BIT
+// Difficulty: 6.0
+// Priority: 4
+// Date: 11-01-2018
 
 #include <bits/stdc++.h>
 

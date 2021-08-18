@@ -1,6 +1,7 @@
-// Implementation
-// 2
-// 31-10-2020
+// Tags: Brute Force
+// Difficulty: 1.5
+// Priority: 4
+// Date: 31-10-2020
 
 #include <bits/stdc++.h>
      
