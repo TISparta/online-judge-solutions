@@ -1,6 +1,7 @@
-// Implementation
-// 2
-// 13-01-2021
+// Tags: Implementation
+// Difficulty: 1.5
+// Priority: 4
+// Date: 13-01-2021
 
 #include <bits/stdc++.h>
      
