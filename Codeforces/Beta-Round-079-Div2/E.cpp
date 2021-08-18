@@ -1,6 +1,7 @@
-// Math, Linear Algebra
-// 5
-// 16-01-2021
+// Tags: Math, Linear Algebra
+// Difficulty: 6.7
+// Priority: 1
+// Date: 16-01-2021
 
 #include <bits/stdc++.h>
      

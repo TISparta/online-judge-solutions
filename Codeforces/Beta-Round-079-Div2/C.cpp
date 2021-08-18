@@ -1,6 +1,7 @@
-// Greedy
-// 2
-// 16-01-2021
+// Tags: Greedy
+// Difficulty: 3.0
+// Priority: 5
+// Date: 16-01-2021
 
 #include <bits/stdc++.h>
      

@@ -1,6 +1,7 @@
-// BIT
-// 3
-// 13-05-2020
+// Tags: BIT
+// Difficulty: 5.0
+// Priorite: 5
+// Date: 13-05-2020
 
 #include <bits/stdc++.h>
      

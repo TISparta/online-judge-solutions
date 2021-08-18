@@ -1,6 +1,7 @@
-// Brute Force
-// 1
-// 16-01-2021
+// Tags: Brute Force
+// Difficulty: 1.0
+// Priority: 4
+// Date: 16-01-2021
 
 #include <bits/stdc++.h>
      
