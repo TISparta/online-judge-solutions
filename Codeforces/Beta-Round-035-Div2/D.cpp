@@ -1,6 +1,7 @@
-// DP
-// 3
-// 24-12-2018
+// Tags: DP
+// Difficulty: 5.0
+// Priority: 5
+// Date: 24-12-2018
 
 #include <bits/stdc++.h>
 

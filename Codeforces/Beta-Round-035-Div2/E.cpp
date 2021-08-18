@@ -1,6 +1,7 @@
-// Sweep Line
-// 4
-// 24-12-2018
+// Tags: Sweep Line
+// Difficulty: 6.0
+// Priority: 4
+// Date: 24-12-2018
 
 #include <bits/stdc++.h>
 

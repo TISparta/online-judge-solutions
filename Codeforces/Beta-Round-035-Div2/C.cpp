@@ -1,6 +1,7 @@
-// BFS
-// 3
-// 24-12-2018
+// Tags: BFS
+// Difficulty: 3.0
+// Priority: 5
+// Date: 24-12-2018
 
 #include <bits/stdc++.h>
 

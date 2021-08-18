@@ -1,6 +1,7 @@
-// Ad-Hoc
-// 1
-// 24-12-2018
+// Tags: Implementation
+// Difficulty: 1.0
+// Priority: 5
+// Date: 24-12-2018
 
 #include <bits/stdc++.h>
 
