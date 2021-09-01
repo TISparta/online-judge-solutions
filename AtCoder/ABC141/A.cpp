@@ -1,3 +1,8 @@
+// Tags: Implementation
+// Difficulty: 1.0
+// Priority: 5
+// Date: 31-08-2021
+
 #include <bits/stdc++.h>
      
 #define all(A) begin(A), end(A)
