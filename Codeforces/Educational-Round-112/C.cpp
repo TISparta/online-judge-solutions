@@ -1,4 +1,4 @@
-// Tags: Cummulative Sums
+// Tags: Cumulative Array
 // Difficulty: 3.0
 // Priority: 4
 // Date: 30-07-2021
